@@ -124,10 +124,13 @@ with iphone[2] do begin namahp:='Iphone 17 Pro Max'; harga:=250000; sewa :=false
 with iphone[3] do begin namahp:='Iphone 120 pro'; harga:=1000000; sewa :=false; end;
     repeat
         clrscr;
-        writeln('| selamat datang di rental hp mas amba |');
-        writeln('0. Keluar');
-        writeln('1. Samsung');
-        writeln('2. Iphone');
+        writeln('|=================================================|');
+        writeln('|        selamat datang di rental hp mas amba     |');
+        writeln('|=================================================|');
+        writeln('|0. Keluar                                        |');
+        writeln('|1. Samsung                                       |');
+        writeln('|2. Iphone                                        |');
+        writeln('|=================================================|');
         write('Pilih menu: ');
         readln(pilihan);
         case pilihan of
