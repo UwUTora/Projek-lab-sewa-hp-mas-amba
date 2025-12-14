@@ -1,6 +1,7 @@
 # PROJEK-SEWA-HP
 **Team Bismillah Jadi**
-**AANGGOTA**:
+
+**ANGGOTA**:
 1. M. Fakhri Hamizan (251401115)
 2. Raffa Fadhlan Tsalasa Lubis (251401148)
 
