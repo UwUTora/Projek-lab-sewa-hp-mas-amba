@@ -4,6 +4,7 @@
 **ANGGOTA**:
 1. M. Fakhri Hamizan (251401115)
 2. Raffa Fadhlan Tsalasa Lubis (251401148)
+   
 
 **Deskripsi**:
 Program Sewa HP adalah layanan penyediaan telepon genggam kepada pengguna dengan sistem peminjaman dalam jangka waktu tertentu dan biaya sewa yang telah disepakati. Program ini ditujukan bagi masyarakat, pelajar, atau instansi yang membutuhkan HP untuk keperluan komunikasi, pembelajaran daring, pekerjaan, atau kegiatan tertentu tanpa harus membeli perangkat baru.
