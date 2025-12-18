@@ -12,3 +12,6 @@ Program Sewa HP adalah layanan penyediaan telepon genggam kepada pengguna dengan
 Melalui program sewa HP, pengguna dapat memilih jenis dan spesifikasi HP sesuai kebutuhan, kemudian menggunakan perangkat tersebut selama masa sewa berlangsung. Setelah masa sewa berakhir, HP dikembalikan kepada penyedia sesuai ketentuan yang berlaku. 
 
 Program ini memberikan berbagai manfaat, antara lain mengurangi biaya pengeluaran, meningkatkan akses teknologi bagi masyarakat yang memiliki keterbatasan ekonomi, serta mendukung kelancaran aktivitas belajar dan kerja. Dengan demikian, program sewa HP menjadi solusi praktis dan ekonomis dalam memenuhi kebutuhan teknologi komunikasi.
+
+Link Google Drive:
+https://drive.google.com/drive/u/2/folders/1IhcJ2I62c9Of5lhljPPHB8qh1YTcMQbc
